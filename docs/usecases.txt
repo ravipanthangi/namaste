@@ -1,0 +1,2 @@
+1.please deoply testcases for aws
+2.wite a shell script
